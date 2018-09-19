@@ -1,0 +1,38 @@
+.box {
+	min-height : 250px;
+}
+.content{
+	min-height : 190px;
+}
+.buton{
+	 border-radius: 5px;
+}
+.apply{
+	 margin-top : 10px;
+}
+.row {
+	margin-top : 1%;
+}
+.top-box {
+	background-image: url("/fullsnack/assets/top-box.png"); 
+	min-height: 650px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top : 30px;
+	padding-bottom : 1px;
+}
+
+.box-text {
+	border-radius: 20px;
+    border: 1px solid white;
+	margin-bottom : 20px;
+	padding-left : 10px;
+}
+
+.img-pad {
+	padding-top : 40px;
+}
+.parallax-container {
+  height: 1500px;
+}
